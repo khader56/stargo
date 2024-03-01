@@ -1,0 +1,2 @@
+# stargo
+say,Hi 
